@@ -5,7 +5,7 @@
 * This version use the optional "help messages" to give a better feedback to the user.
 * 
 * Adapt the inputs names and the getElementById() by your own.
-* You can also custom the CSS to the error message like so that :
+* You can also custom the CSS for the error message like that :
 * .ff-el-help-message.error {color: red;}
  */
 
